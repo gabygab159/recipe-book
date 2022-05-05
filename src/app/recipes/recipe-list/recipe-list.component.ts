@@ -11,7 +11,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'Good recipe',
       'very delicious',
-      'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fmmm-yoso%2F45800475025&psig=AOvVaw2HaWqo-uhjspck_6uYLfo5&ust=1651799347496000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCy2aKWx_cCFQAAAAAdAAAAABAD'
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Fworld.openfoodfacts.org%2Fproduct%2F0031000809478%2Fmega-bowls-nashville-hot-chicken-recipe&psig=AOvVaw1hAjg-aGm5D5C0Igt_qbLW&ust=1651800141042000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCP66qZx_cCFQAAAAAdAAAAABAD'
     ),
   ];
 
